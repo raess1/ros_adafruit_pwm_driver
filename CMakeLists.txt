@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(ev-pwm-adafruit)
+project(adafruit_pwm_driver)
 
 ## Compile as C++11, supported in ROS Kinetic and newer
 # add_compile_options(-std=c++11)
